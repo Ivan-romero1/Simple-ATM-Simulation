@@ -13,3 +13,9 @@ Install the required tools with the following commands on WSL:
  - sudo apt install build-essential
 
 # Build the Project:
+
+Inside the directory where project is installed, run:
+ - make
+
+Then run the program: 
+./program
